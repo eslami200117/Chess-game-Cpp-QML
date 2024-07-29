@@ -6,7 +6,7 @@ using namespace std;
 ChessBoard::ChessBoard()
     : m_board(8, vector<shared_ptr<ChessPiece>>(8, nullptr))
     , m_turn(true)
-    , m_loadAddress("./../../resource/default.txt")
+    , m_loadAddress("resource/default.txt")
     , m_winer(0)
 {
     loadGame();
