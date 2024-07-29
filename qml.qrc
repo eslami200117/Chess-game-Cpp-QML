@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>utils.js</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>pieces/knight-b.svg</file>
+        <file>pieces/pawn-b.svg</file>
+        <file>pieces/pawn-w.svg</file>
+        <file>pieces/queen-b.svg</file>
+        <file>pieces/queen-w.svg</file>
+        <file>pieces/rook-b.svg</file>
+        <file>pieces/rook-w.svg</file>
+        <file>pieces/king-b.svg</file>
+        <file>pieces/king-w.svg</file>
+        <file>pieces/knight-w.svg</file>
+        <file>pieces/bishop-b.svg</file>
+        <file>pieces/bishop-w.svg</file>
+    </qresource>
+</RCC>
